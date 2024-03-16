@@ -1,0 +1,7 @@
+.cache
+.replit
+replit.nix
+db.db
+.config
+.git
+.local

@@ -1,0 +1,54 @@
+body(
+  zoom: 1.5;
+)
+
+*{
+  margin:0%;
+  padding:0%;
+}
+
+
+.container h3 {
+  background-color: #80ffff;
+  margin: auto;
+  text-align: center;
+  font-size: 4ch;
+}
+
+.button {
+  text-align: center;
+  padding-bottom: 60px;
+  padding-top: 5px;
+}
+
+.button button{
+  background-color: #80ffff;
+  border: none;
+  padding: 10px;
+  margin: 5px;
+  font-size: 2ch;
+  cursor: pointer;
+}
+
+
+
+form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #0af5ef;
+  background-position: center;
+  margin: auto;
+  line-height: 5px;
+  inline-size: 10px;
+  padding: 20px 100px;
+  }
+.btn{
+  cursor: pointer;
+  line-height: 15px;
+  inline-size: 100px;
+  border-inline-color: black;
+  margin: 5px;
+}
+
+
