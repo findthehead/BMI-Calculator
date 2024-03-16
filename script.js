@@ -38,3 +38,9 @@ function calculateBMI() {
   // Display the message
   document.write(message);
 }
+
+function resetFields() {
+  document.getElementById("Name").value = "";
+  document.getElementById("Height").value = "";
+  document.getElementById("Weight").value = "";
+}
